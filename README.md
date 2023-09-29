@@ -4,7 +4,7 @@
 Editable-Table-in-React--Add-Edit-Delete-Rows
 
 ## Live Project Link
-[EditableTable in React Add Edit Delete Rows](https://stately-mooncake-8caee0.netlify.app/)
+[EditableTable in React Add Edit Delete Rows](https://clever-salmiakki-7239b0.netlify.app/)
 
 
 ## Multiple projects inside the component folder
